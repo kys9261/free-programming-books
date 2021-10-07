@@ -77,7 +77,7 @@
 
 ### Java
 
-* [쉽게 따라하는 자바 웹 개발](https://github.com/keesun/study/raw/master/book/%EC%9E%90%EB%B0%94%EC%9B%B9%EA%B0%9C%EB%B0%9C%20%EC%9D%B8%EC%87%84_2%EC%87%84.pdf) - 백기선 (PDF)
+* [쉽게 따라하는 자바 웹 개발](https://github.com/keesun/study/blob/7f47b9ae5c1b25be31a7e1b0fe7602cc70017031/book/%EC%9E%90%EB%B0%94%EC%9B%B9%EA%B0%9C%EB%B0%9C%20%EC%9D%B8%EC%87%84_2%EC%87%84.pdf) - 백기선 (PDF)
 * [점프 투 자바](https://wikidocs.net/book/31) - 박응용
 
 
